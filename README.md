@@ -41,6 +41,15 @@ npm run verify
 
 Deployment targets GenLayer Studio Next, chain `61997`. Exact live evidence is added to `deployment.json` after the network lifecycle succeeds.
 
+## Studio Next record
+
+- Contract: [`0xEc23EdA122F457D2B5D689b36F074D5862E4EeD4`](https://explorer-studio-dev.genlayer.com/address/0xEc23EdA122F457D2B5D689b36F074D5862E4EeD4)
+- Deployment transaction: [`0x9e69efad...3b8977a4`](https://explorer-studio-dev.genlayer.com/tx/0x9e69efad02dd560a51e4b18cc32f638ce25c2dcceb22f97a1af70b333b8977a4)
+- Demonstration study: `replica-demo-musn7zyo`
+- Deployed source SHA-256: `6da241d1a9567516f3bc9dbf85c55eb42e8774a6fe3ff23f4393931bdcb1446e`
+
+The live run used two fresh reviewer wallets and two report hostnames. Both report transactions reached `FINALIZED` with `MAJORITY_AGREE`; the permissionless close produced `REPRODUCED` with two supports and no failures. The repository labels both reports as operator-controlled fixtures, so the demonstration proves contract behavior, not institutional independence.
+
 ## Files
 
 - `contracts/replica_quorum.py`: source freezing, reviewer authorization, consensus, and aggregation

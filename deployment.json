@@ -1,0 +1,28 @@
+{
+  "network": "GenLayer Studio Next",
+  "chainId": 61997,
+  "rpc": "https://studio-next.genlayer.com/api",
+  "explorer": "https://explorer-studio-dev.genlayer.com",
+  "contractAddress": "0xEc23EdA122F457D2B5D689b36F074D5862E4EeD4",
+  "deploymentTransaction": "0x9e69efad02dd560a51e4b18cc32f638ce25c2dcceb22f97a1af70b333b8977a4",
+  "sourceCommit": "436ead23f96f76aa37f29ebe867fa3ada06889c2",
+  "sourceSha256": "6da241d1a9567516f3bc9dbf85c55eb42e8774a6fe3ff23f4393931bdcb1446e",
+  "demoStudy": "replica-demo-musn7zyo",
+  "demoReviewers": [
+    "0xDA91E51d127ADc33DB0DD77421ab537e4c7370f8",
+    "0x25513f2b167D9a45edc87726fb38f4318e84F898"
+  ],
+  "demoTransactions": {
+    "openStudy": "0xff3613ea2fd9848ac3d695486af2aecc4a8e94d128caa12c9deb96e6051a7405",
+    "reportA": "0x4a32f4841edca6e47126d63cc6b8db8378193980678e7912eafb4b53040a0ed0",
+    "reportB": "0x55571cb217615ec1ceca1e525dacae0bc6b2aeb597de080b3e9d7dd1d3c7111d",
+    "finalize": "0x6aa8c885abafaa7dc9fec80f6ee4fa3d7a4d6b00afa1c4b2b05fe5f64d76b371"
+  },
+  "verified": {
+    "sourceMatch": true,
+    "status": "REPRODUCED",
+    "supports": 2,
+    "fails": 0,
+    "reportHosts": ["raw.githubusercontent.com", "github.com"]
+  }
+}
