@@ -1,0 +1,7 @@
+REPLICAQUORUM DEMONSTRATION FIXTURE
+This artifact description was created by the repository operator and is not an independent research publication.
+
+Build 42 artifact manifest
+Artifact reference: model-echo-42
+Expected deterministic checksum after execution: 7ac9
+Package digest is fixed for this demonstration study.

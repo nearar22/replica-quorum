@@ -1,0 +1,7 @@
+REPLICAQUORUM DEMONSTRATION FIXTURE
+This protocol was created by the repository operator and is not an independently validated scientific method.
+
+Reproduction protocol 42
+Execute model-echo-42 with seed 17 in Python 3.13.
+Compare the resulting checksum with expected checksum 7ac9.
+Record the execution environment and observed output.

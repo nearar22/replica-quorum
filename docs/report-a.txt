@@ -1,0 +1,8 @@
+REPLICAQUORUM DEMONSTRATION FIXTURE
+This report and its reviewer wallet are controlled by the repository operator.
+
+Lab A reproduction report
+Tested artifact: model-echo-42
+Followed protocol: seed 17 in Python 3.13
+Environment: Windows 11, Python 3.13
+Result: checksum 7ac9 was reproduced exactly

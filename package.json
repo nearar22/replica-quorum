@@ -1,0 +1,14 @@
+{
+  "name": "replica-quorum",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "deploy": "node scripts/deploy.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "genlayer-js": "2.0.0-rc.1"
+  }
+}
